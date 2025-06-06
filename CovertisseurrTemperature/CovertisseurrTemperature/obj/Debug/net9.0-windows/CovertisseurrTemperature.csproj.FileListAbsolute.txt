@@ -1,0 +1,16 @@
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\bin\Debug\net9.0-windows\CovertisseurrTemperature.exe
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\bin\Debug\net9.0-windows\CovertisseurrTemperature.deps.json
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\bin\Debug\net9.0-windows\CovertisseurrTemperature.runtimeconfig.json
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\bin\Debug\net9.0-windows\CovertisseurrTemperature.dll
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\bin\Debug\net9.0-windows\CovertisseurrTemperature.pdb
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.Form1.resources
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.csproj.GenerateResource.cache
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.AssemblyInfoInputs.cache
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.AssemblyInfo.cs
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.csproj.CoreCompileInputs.cache
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.dll
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\refint\CovertisseurrTemperature.dll
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.pdb
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\CovertisseurrTemperature.genruntimeconfig.cache
+C:\Users\LSP\Documents\try_win_app\CovertisseurrTemperature\CovertisseurrTemperature\obj\Debug\net9.0-windows\ref\CovertisseurrTemperature.dll
