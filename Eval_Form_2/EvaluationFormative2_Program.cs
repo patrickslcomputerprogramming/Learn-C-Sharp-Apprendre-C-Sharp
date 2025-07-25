@@ -39,7 +39,7 @@
             Console.Write((i < nombre_total_lettres-1) ? ", " : ".");
         }
         Console.WriteLine();
-        Console.WriteLine("Nombre de lettres : " + this.NombreLettres());
+        Console.WriteLine("Nombre de lettres : " + nombre_total_lettres);
         Console.WriteLine("Lettres concaténées dans l'ordre de stockage : " + this.ConcatenerLettres());
     }
 }
