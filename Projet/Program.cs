@@ -8,7 +8,7 @@ class CalculatricePrix
     private double prixUnitaireArticle;
 
     /*
-    //Les propriétés ne sont pas trop importants ici car on reçoit les valeurs des champs via la méthode constructeur
+    //Les propriétés ne sont pas trop importantes ici car on reçoit les valeurs des champs via la méthode constructeur
     //Propriétés
     public int QuantiteArticle
     {
