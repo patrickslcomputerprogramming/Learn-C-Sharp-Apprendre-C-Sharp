@@ -7,6 +7,22 @@ class CalculatricePrix
     private int quantiteArticle;
     private double prixUnitaireArticle;
 
+    /*
+    //Les propriétés ne sont pas trop importants ici car on reçoit les valeurs des champs via la méthode constructeur
+    //Propriétés
+    public int QuantiteArticle
+    {
+        get { return quantiteArticle; }
+        set { quantiteArticle = value; }
+    }
+    
+    public double PrixUnitaireArticle
+    {
+        get { return prixUnitaireArticle; }
+        set { prixUnitaireArticle = value; }
+    }
+    */
+    
     // Constantes
     const double TPS_TAUX = 0.05; //Taux de la Taxe de Vente Harmonisé du Canada 
     const double TVQ_TAUX = 0.09975; //Taux de la Taxe de Vente du Québec 
