@@ -1,4 +1,4 @@
-﻿// Déclarer une classe
+// Déclarer une classe
 using System.Collections;
 
 class CalculatricePrix
@@ -15,14 +15,14 @@ class CalculatricePrix
         get { return quantiteArticle; }
         set { quantiteArticle = value; }
     }
-    
+
     public double PrixUnitaireArticle
     {
         get { return prixUnitaireArticle; }
         set { prixUnitaireArticle = value; }
     }
     */
-    
+
     // Constantes
     const double TPS_TAUX = 0.05; //Taux de la Taxe de Vente Harmonisé du Canada 
     const double TVQ_TAUX = 0.09975; //Taux de la Taxe de Vente du Québec 
@@ -92,9 +92,12 @@ class Programme
 {
     static void Main()
     {
+        //Initialiser variables
         int quantite = 20;
         double prixUnitaire = 5;
+        //Instancier une méthode avec un objet  
         Hashtable facture = new CalculatricePrix(quantite,prixUnitaire).Calculer();
+        //Afficher le contenu d'une variable
         Console.WriteLine("SOUS TOTAL = "+facture["sous-total"]);
         Console.WriteLine("TAXE TPS = " + facture["taxe-tps"]);
         Console.WriteLine("TAXE TVQ = " + facture["taxe-tvq"]);
